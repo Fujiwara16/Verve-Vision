@@ -26,9 +26,9 @@
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
-    <a href="[https://github.com/github_username/repo_name/](https://github.com/K1RA-16/Verve-Vision/issues)">Report Bug</a>
+    <a href="https://github.com/K1RA-16/Verve-Vision/issues">Report Bug</a>
     ·
-    <a href="[https://github.com/github_username/repo_name/issues](https://github.com/K1RA-16/Verve-Vision/issues)">Request Feature</a>
+    <a href="https://github.com/K1RA-16/Verve-Vision/issues">Request Feature</a>
   </p>
 </div>
 
