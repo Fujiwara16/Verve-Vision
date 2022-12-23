@@ -24,7 +24,7 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="[https://github.com/github_username/repo_name](https://drive.google.com/file/d/1DAGU_aJb36XKrWLRGPrjjNyjUarEig9I/view?usp=drivesdk)">View Demo</a>
     ·
     <a href="https://github.com/K1RA-16/Verve-Vision/issues">Report Bug</a>
     ·
@@ -34,7 +34,7 @@
 
 
 <!-- 
-<!-- TABLE OF CONTENTS -->
+TABLE OF CONTENTS
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -52,14 +52,14 @@
       </ul>
     </li> -->
 <!--     <li><a href="#usage">Usage</a></li> -->
-    <li><a href="#roadmap">Roadmap</a></li>
+<!--     <li><a href="#roadmap">Roadmap</a></li> -->
 <!--     <li><a href="#contributing">Contributing</a></li> -->
 <!--     <li><a href="#license">License</a></li> -->
-    <li><a href="#contact">Contact</a></li>
+<!--     <li><a href="#contact">Contact</a></li> -->
 <!--     <li><a href="#acknowledgments">Acknowledgments</a></li> -->
-  </ol>
+<!--   </ol>
 </details>
- -->
+ --> -->
 
 
 <!-- ABOUT THE PROJECT -->
