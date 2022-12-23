@@ -73,9 +73,9 @@ This is an iOS app built keeping in mind the recent advancements in AI. This app
 
 ### Built With
 
-* [![Swift][Swift]][Next-url]
-* [![Xcode][Xcode]][React-url]
-* [![Firebase][Firebase]][Vue-url]
+* ![Swift][Swift]
+* ![Xcode][Xcode]
+* ![Firebase][Firebase]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
