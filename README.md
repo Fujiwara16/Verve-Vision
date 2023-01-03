@@ -65,8 +65,18 @@ TABLE OF CONTENTS
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is an iOS app built keeping in mind the recent advancements in AI. This app uses AI to allow the user to generate AI images based on the prompts and gives the user an option to share, enhance or save the generated image. The share button stores the image and its prompt in the DB and creates a post. The user can view their posts, search for friends by their usernames, follow them and view their latest generated posts through their feed. The user can see all of a particular user's posts by clicking on their username.
+This is an iOS app built keeping in mind the recent advancements in AI. This app uses AI to allow the user to generate AI images based on the prompts and gives the user an option to share, enhance or save the generated image.
 
+
+## Features
+
+- [x] Custom Login and sign up page enabled by email
+- [x] Home page to create AI images based on user's prompt
+- [x] An option to save,enhance or post the generated image
+- [x] Backend on Firebase to ensure smooth functioning of saving post, showing latest post, unfollowing and following a person
+- [x] Profile page to view all your create images with their corresponding prompts 
+- [x] A search page ot search for friends by their username
+- [x] Friends page to view all the people you are following
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
