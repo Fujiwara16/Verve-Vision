@@ -77,7 +77,7 @@ This is an iOS app built keeping in mind the recent advancements in AI. This app
 - [x] Profile page to view all your create images with their corresponding prompts 
 - [x] A search page ot search for friends by their username
 - [x] Friends page to view all the people you are following
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -88,7 +88,7 @@ This is an iOS app built keeping in mind the recent advancements in AI. This app
 * ![Firebase][Firebase]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
