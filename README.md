@@ -24,7 +24,7 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://drive.google.com/file/d/1DAGU_aJb36XKrWLRGPrjjNyjUarEig9I/view?usp=drivesdk">View Demo</a>
+    <a href="https://drive.google.com/file/d/1kmmsM1d52HZoqk_3zQPlnYSBfPFiV2B2/view?usp=sharing">View Demo</a>
     ·
     <a href="https://github.com/K1RA-16/Verve-Vision/issues">Report Bug</a>
     ·
