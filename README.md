@@ -64,8 +64,7 @@ TABLE OF CONTENTS
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-This is an iOS app built keeping in mind the recent advancements in AI. This app uses AI to allow the user to generate AI images based on the prompts and gives the user an option to share, enhance or save the generated image.
+Introducing the ultimate image generation app for iOS! Utilizing the latest technologies, our app allows you to easily create, enhance, and save unique images. Share your creations with friends and followers through our user-friendly interface, featuring a personalized feed, search for friends by username, and follow other users with just a few taps. Upgrade your image game with Verve Vision today!
 
 
 ## Features
