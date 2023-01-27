@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/K1RA-16/verveVision">
-    <img src="https://github.com/K1RA-16/Verve-Vision/blob/main/theatermask.and.paintbrush%402x.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/K1RA-16/Verve-Vision/blob/main/IMG_4819.JPG" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Verve-Vision
