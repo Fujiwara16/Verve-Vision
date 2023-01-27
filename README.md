@@ -24,11 +24,11 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://drive.google.com/file/d/1kmmsM1d52HZoqk_3zQPlnYSBfPFiV2B2/view?usp=sharing">View Demo</a>
+    <a href="https://murf.ai/share/lde7m0v5">View Demo</a>
     ·
     <a href="https://github.com/K1RA-16/Verve-Vision/issues">Report Bug</a>
     ·
-    <a href="https://github.com/K1RA-16/Verve-Vision/issues">Request Feature</a>
+    <a href="https://apps.apple.com/us/app/verve-vision/id1667517517">App store link</a>
   </p>
 </div>
 
